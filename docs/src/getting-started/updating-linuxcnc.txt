@@ -593,7 +593,7 @@ Name changes:
 
 ----
 was: axis.L.vel-cmd
- is: axis.l.teleop-vel-cmd
+ is: axis.L.teleop-vel-cmd
 ----
 
 == GUIs (updates for joints_axes)
